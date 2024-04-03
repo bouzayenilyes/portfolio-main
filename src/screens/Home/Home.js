@@ -966,7 +966,7 @@ const Home = () => {
 						</div>
 						<div className = 'email'>
 							<h1>Contact number</h1>
-							<a href="tel:+919891510043" onTouchEnd = {handlePhoneOpen} onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>+91 9891510043</a>
+							<a href="tel:+216 29 348 110" onTouchEnd = {handlePhoneOpen} onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>+216 29 348 110</a>
 						</div>	
 					</div>
 					<div className = 'footer_title'>ILYESBOUZAYEN</div>
