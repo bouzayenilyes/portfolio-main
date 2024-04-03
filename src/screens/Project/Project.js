@@ -409,7 +409,7 @@ const Project = () => {
 	}
 
 	const openResume = () => {
-		window.open("https://drive.google.com/file/d/1pjXjyplGU8W3ykJU0ct3Lna2JvuFe3jp/view?usp=sharing" , "_blank")
+		window.open("https://drive.google.com/file/d/1-r4xViCo4W6JM8TuTfgq1ecmkqgpHFfv/view?usp=sharing" , "_blank")
 	}
 
 	const openProject = (url) => {
