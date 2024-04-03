@@ -409,7 +409,7 @@ const Home = () => {
 	}
 
 	const handleMailOpen = () => {
-		window.open("mailto:aryaanahuja14@gmail.com")
+		window.open("mailto:Ilyesbouzayen@hotmail.com")
 	}
 
 	const handlePhoneOpen = () => {
@@ -962,7 +962,7 @@ const Home = () => {
 						</div>
 						<div className = 'email'>
 							<h1>Email</h1>
-							<a href="mailto:aryaanahuja14@gmail.com" onTouchEnd = {handleMailOpen} target = "_top" onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>ARYAANAHUJA14@GMAIL.COM</a>
+							<a href="mailto:Ilyesbouzayen@hotmail.com" onTouchEnd = {handleMailOpen} target = "_top" onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>ILYESBOUZAYEN@GMAIL.COM</a>
 						</div>
 						<div className = 'email'>
 							<h1>Contact number</h1>

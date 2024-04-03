@@ -401,11 +401,11 @@ const Contact = () => {
 	}
 
 	const handleMailOpen = () => {
-		window.open("mailto:aryaanahuja14@gmail.com")
+		window.open("mailto:Ilyesbouzayen@hotmail.com")
 	}
 
 	const handlePhoneOpen = () => {
-		window.open("tel:+919891510043")
+		window.open("tel:+216 29 348 110")
 	}
 
 	const openResume = () => {
@@ -742,10 +742,10 @@ const Contact = () => {
 						</div>
 					</div>
 					 <div className = 'footer_email'>
-						<a href="mailto:aryaanahuja14@gmail.com" onTouchEnd = {handleMailOpen} onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>aryaanahuja14@gmail.com</a>
+						<a href="mailto:ilyesbouzayen@hotmail.com" onTouchEnd = {handleMailOpen} onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>Ilyesbouzayen@hotmail.com</a>
 					</div>
 					<div className = 'footer_num'>
-						<a href="tel:+919891510043" onTouchEnd = {handlePhoneOpen} onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>+919891510043</a>
+						<a href="tel:+216 29 348 110" onTouchEnd = {handlePhoneOpen} onMouseEnter = {handleMouseOverSocialIcon} onMouseLeave = {handleMouseLeaveSocialIcon}>+216 29 348 110</a>
 					</div> 
 					<div className = 'end'></div>
 				</div>
